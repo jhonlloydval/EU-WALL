@@ -1,0 +1,8 @@
+EU-WALL project has a lot of room for improvements. Considering I made the project in a short amount of time, without proper
+understanding of PYQT6, it goes to show that the project lacks in many aspects. This document shall be a room for discussion of
+the details EU-WALL needs to improve on.
+
+1. An option to go back to the main screen.
+2. Emoji/Reacts option
+3. Reply to specific posts
+4. Better name for EU-WALL
