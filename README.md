@@ -54,6 +54,7 @@ EU-WALL fosters emotional expression, campus unity, and responsible communicatio
    Users can write their own messages and choose whether to post anonymously or with their username displayed. The post is then added to the public feed.
 
 ### ![Search](images/search1_screen.png)
+### ![Search](images/search2_screen.png)
 4. **Search Functionality**:  
    A search bar allows users to filter posts based on keywords or the date they were posted, making it easier to find specific content.
 
